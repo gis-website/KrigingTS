@@ -90,6 +90,9 @@ const isosurfaces = (kriging: KrigingClass,lngs: Array<number>,lats: Array<numbe
   }
   return viewer.entities.getById('KrigingRain')
 }
+
+其中jsonData为GeoJson，根据个人数据进行上述方法的读取插值范围的的代码修改
+
 ```
 
 ### expectation
