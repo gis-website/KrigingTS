@@ -3,7 +3,7 @@
 ## Project description
 ```
 该库是对开源的kriging 进行的ts版本的编写，没对做其他的改动
-原始cesium heatMap的地址 https://github.com/oeo4b/kriging.js
+原始kriging 的地址 https://github.com/oeo4b/kriging.js
 ```
 
 ## using
